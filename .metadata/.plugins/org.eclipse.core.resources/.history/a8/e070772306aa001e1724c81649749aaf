@@ -1,0 +1,17 @@
+package sec02.exam01;
+
+public class MethodEx {
+
+	 static void main(String[] args) {
+	method();
+
+	}
+ static void method() {
+	System.out.println("메서드(함수)method()");
+}
+
+
+
+
+
+}

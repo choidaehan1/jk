@@ -1,0 +1,7 @@
+package sec03.exam01;
+//콘솔 창에 출력 
+public class Test {
+	public static void main(string[] ar) {
+		System.out.println("안녕?");
+	}
+}

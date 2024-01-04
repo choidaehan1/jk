@@ -1,0 +1,31 @@
+package sec02.exam01;
+
+public class Type {
+
+	public static void main(String[] args) {
+		byte value1 = 10; 
+		int value2 =100 ; 
+		byte sum = (byte) (value1 + value2);
+		
+		
+		int intValue = 10;
+		double doubleValue = 5.5;
+		int result = (int) (intValue + doubleValue) ;
+		System.out.println(result);
+		
+		
+		
+		
+		
+		
+		byte var1 = 100;
+		int var2 = var1 ;
+		long var3 = 1000000000L;
+		float var4 = var3 ;
+		
+		var1=(byte) var2;
+		System.out.println(var1);
+
+	}
+
+}
